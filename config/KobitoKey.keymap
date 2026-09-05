@@ -94,8 +94,8 @@
             >;
         };
 
-        layer5_copy {
-            label = "Layer 5 Copy";
+        layer7 {
+            label = "Layer 7";
             bindings = <
         &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans
         &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans
@@ -103,6 +103,5 @@
         &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans   &trans
             >;
         };
-
     };
 };
